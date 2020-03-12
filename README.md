@@ -1,4 +1,4 @@
-# -rock-paper-scissors-game
+# Rock-Paper-Scissors-Game
 En el juego para dos personas llamado roca, papel y tijeras, cada jugador escoge
 ser t,r o p respectivamente. El jugador se determina así por medio de la función:
 roca rompe tijeras, las tijeras cortan el papel, el papel cubre la roca, el juego
