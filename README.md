@@ -12,4 +12,4 @@ Hace 3 case principales manjenados por case t, r y t. Dentro de esos case otro
 switch donde va a analizar en el primer case la jugada del segundo ganador y
 determinar el ganador.
 
-[juego.java] - juego.java
+1.- [juego.java](juego.java).
